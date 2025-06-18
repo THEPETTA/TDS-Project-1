@@ -112,8 +112,8 @@ See the [LICENSE](./LICENSE) file for details.
 
 ## 📬 Submission Details
 
-* **GitHub Repository**: [https://github.com/THEPETTA/TDS-Project-1)
-* **API Endpoint**: [https://ambidextrous-n7qm.onrender.com/query)
+* **GitHub Repository**: https://github.com/THEPETTA/TDS-Project-1
+* **API Endpoint**: https://ambidextrous-n7qm.onrender.com/query
 
 ---
 
